@@ -1,6 +1,6 @@
 # Привет!
 
-
+## 📞 Contact me
 <a href="https://t.me/BulatSRC">
   <img align="left" alt="My Telegram" width="35px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/icon-telegram.svg" />
 </a>
@@ -10,66 +10,60 @@
 
 <br/><br/>
 
-
 ## 🛠 Hard skills:
-
-<!-- <table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-</table> -->
 
 <ul>
     <li>
-                <span>React</span>
-            <img align="left" alt="JavaScript" width="42px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/js.svg" />
+            <img align="center" alt="JavaScript" width="42px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/js.svg" />
+            <span>JavaScript</span>
+    </li>
+    <li>
+            <img align="center" alt="React" width="42px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/icon-react.svg" />
             <span>React</span>
     </li>
     <li>
-            <img align="left" alt="React" width="42px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/icon-react.svg" />
+            <img align="center" alt="Redux" width="42px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/redux.svg" />
+            <span>Redux</span>
     </li>
     <li>
-            <img align="left" alt="Redux" width="42px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/redux.svg" />
+            <img align="center" alt="TypeScript" width="42px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/ts.png" />
+            <span>TypeScript</span>
     </li>
     <li>
-            <img align="left" alt="TypeScript" width="42px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/ts.png" />
+            <img align="center" alt="Css" width="42px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/css.png" />
+            <span>CSS</span>
     </li>
     <li>
-            <img align="left" alt="Css" width="42px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/css.png" />
+            <img align="center" alt="Sass" width="42px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/sass.svg" />
+            <span>Sass</span>
     </li>
     <li>
-            <img align="left" alt="Sass" width="42px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/sass.svg" />
+            <img align="center" alt="Html" width="42px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/html.svg" />
+            <span>HTML</span>
     </li>
     <li>
-            <img align="left" alt="Html" width="42px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/html.svg" />
+            <img align="center" alt="Pug" width="42px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/pug.svg" />
+            <span>Pug</span>
     </li>
     <li>
-            <img align="left" alt="Pug" width="42px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/pug.svg" />
+            <img align="center" alt="Twig" width="42px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/twig.png" />
+            <span>Twig</span>
     </li>
     <li>
-            <img align="left" alt="Twig" width="42px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/twig.png" />
+            <img align="center" alt="Git" width="42px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/git.svg" />
+            <span>Git</span>
     </li>
     <li>
-            <img align="left" alt="Git" width="42px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/git.svg" />
+            <img align="center" alt="Figma" width="42px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/figma.png" />
+            <span>Figma</span>
     </li>
     <li>
-            <img align="left" alt="Figma" width="42px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/figma.png" />
+            <img align="center" alt="Jest" width="42px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/jest.png" />
+            <span>Jest</span>
     </li>
     <li>
-            <img align="left" alt="Jest" width="42px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/jest.png" />
-    </li>
-    <li>
-            <img align="left" alt="Gulp" width="42px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/gulp.svg" />
+            <img align="center" alt="Gulp" width="42px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/gulp.svg" />
+            <span>Gulp</span>
     </li>
 </ul>
 
