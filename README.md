@@ -2,10 +2,10 @@
 
 
 <a href="https://t.me/BulatSRC">
-  <img align="left" alt="My Telegram" width="35px" src="https://raw.githubusercontent.com/BultaCC/BultaCC/main/img/icon/icon-telegram.svg" />
+  <img align="left" alt="My Telegram" width="35px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/icon-telegram.svg" />
 </a>
 <a href="mailto:bulatsrc@gmail.com">
-  <img align="left" alt="My e-mail" width="35px" src="https://raw.githubusercontent.com/BultaCC/BultaCC/main/img/icon/icon-email.svg" />
+  <img align="left" alt="My e-mail" width="35px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/icon-email.svg" />
 </a>
 
 <br/><br/>
@@ -13,19 +13,19 @@
 
 ## 🛠 Hard skills:
 
-<img align="left" alt="JavaScript" width="48px" src="https://raw.githubusercontent.com/BultaCC/BultaCC/main/img/icon/js.svg" />
-<img align="left" alt="React" width="48px" src="https://raw.githubusercontent.com/BultaCC/BultaCC/main/img/icon/icon-react.svg" />
-<img align="left" alt="Redux" width="48px" src="https://raw.githubusercontent.com/BultaCC/BultaCC/main/img/icon/redux.svg" />
-<img align="left" alt="TypeScript" width="48px" src="https://raw.githubusercontent.com/BultaCC/BultaCC/main/img/icon/ts.png" />
-<img align="left" alt="Css" width="48px" src="https://raw.githubusercontent.com/BultaCC/BultaCC/main/img/icon/css.png" />
-<img align="left" alt="Sass" width="48px" src="https://raw.githubusercontent.com/BultaCC/BultaCC/main/img/icon/sass.svg" />
-<img align="left" alt="Html" width="48px" src="https://raw.githubusercontent.com/BultaCC/BultaCC/main/img/icon/html.svg" />
-<img align="left" alt="Pug" width="48px" src="https://raw.githubusercontent.com/BultaCC/BultaCC/main/img/icon/pug.svg" />
-<img align="left" alt="Twig" width="48px" src="https://raw.githubusercontent.com/BultaCC/BultaCC/main/img/icon/twig.png" />
-<img align="left" alt="Git" width="48px" src="https://raw.githubusercontent.com/BultaCC/BultaCC/main/img/icon/git.svg" />
-<img align="left" alt="Figms" width="48px" src="https://raw.githubusercontent.com/BultaCC/BultaCC/main/img/icon/figma.png" />
-<img align="left" alt="jest" width="48px" src="https://raw.githubusercontent.com/BultaCC/BultaCC/main/img/icon/jest.png" />
-<img align="left" alt="Anna`s e-mail" width="48px" src="https://raw.githubusercontent.com/BultaCC/BultaCC/main/img/icon/icon-react.svg" />
+<img align="left" alt="JavaScript" width="48px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/js.svg" />
+<img align="left" alt="React" width="48px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/icon-react.svg" />
+<img align="left" alt="Redux" width="48px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/redux.svg" />
+<img align="left" alt="TypeScript" width="48px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/ts.png" />
+<img align="left" alt="Css" width="48px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/css.png" />
+<img align="left" alt="Sass" width="48px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/sass.svg" />
+<img align="left" alt="Html" width="48px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/html.svg" />
+<img align="left" alt="Pug" width="48px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/pug.svg" />
+<img align="left" alt="Twig" width="48px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/twig.png" />
+<img align="left" alt="Git" width="48px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/git.svg" />
+<img align="left" alt="Figms" width="48px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/figma.png" />
+<img align="left" alt="jest" width="48px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/jest.png" />
+<img align="left" alt="Anna`s e-mail" width="48px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/icon-react.svg" />
 
 ### 💻 Projects:
 
@@ -39,7 +39,7 @@
   <tr>
     <td rowspan="2" width="200">
       <a href="https://what-to-watch-aoa6.vercel.app/" target="_blank">
-        <img width="100%" height="auto" src="https://raw.githubusercontent.com/BultaCC/BultaCC/main/img/wtw.jpg" title="What To Whatch" alt="What To Whatch">
+        <img width="100%" height="auto" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/wtw.jpg" title="What To Whatch" alt="What To Whatch">
       </a>
     </td>
     <td width="180" height="60">
@@ -55,7 +55,7 @@
   <tr>
     <td rowspan="2" width="200">
       <a href="https://six-cities-eosin.vercel.app/" target="_blank">
-        <img width="100%" height="auto" src="https://raw.githubusercontent.com/BultaCC/BultaCC/BultaCC/BultaCC/main/img/six-citeis.jpg" title="Six-cities" alt="Six-cities">
+        <img width="100%" height="auto" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/six-citeis.jpg" title="Six-cities" alt="Six-cities">
       </a>
     </td>
     <td width="180" height="60">
