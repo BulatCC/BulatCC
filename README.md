@@ -28,7 +28,7 @@
 <img align="left" alt="Jest" width="48px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/jest.png" />
 <img align="left" alt="Gulp" width="48px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/gulp.png" />
 
-<br/><br/>
+<hr /><hr /><hr />
 
 ### 💻 Projects:
 
