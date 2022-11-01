@@ -29,6 +29,18 @@
     <img align="left" alt="Gulp" width="42px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/gulp.svg" />
 </table>
 
+<ul>
+    <li>
+        <img align="left" alt="Gulp" width="42px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/gulp.svg" />
+    </li>
+    <li>
+        <img align="left" alt="Gulp" width="42px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/gulp.svg" />
+    </li>
+    <li>
+        <img align="left" alt="Gulp" width="42px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/gulp.svg" />
+    </li>
+</ul>
+
 <br/>
 
 ### 💻 Projects:
