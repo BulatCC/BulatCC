@@ -75,7 +75,6 @@
   <tr>
     <th colspan="3" height="70" align="left">JS-development</th>
   </tr>
-  <tr></tr>
 
   <!-- What To Watch -->
   <tr>
@@ -112,25 +111,24 @@
 
   
   
-  <!-- <tr>
+  <tr>
     <th colspan="3" height="70" align="left"  ">Markup</th>
   </tr>
-  <tr></tr> -->
   
-  <!-- Mishka -->
-  <!-- <tr>
+  <!-- Denim -->
+  <tr>
     <td rowspan="2" width="200">
-      <a href="https://github.io/htmlacademy-mishka/" target="_blank">
-        <img width="100%" height="auto" src="" title="Mishka" alt="Mishka">
+      <a href="https://bulatcc.github.io/" target="_blank">
+        <img width="100%" height="auto" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/denim.jpg" title="Denim" alt="Denim">
       </a>
     </td>
     <td width="180" height="60">
-      <a href="" target="_blank">Mishka</a>
+      <a href="https://github.com/BulatCC/shop-markup" target="_blank">Denim</a>
 	</td>
-    <td>HTML5 / CSS3 / Sass / JavaScript / Gulp / BEM</td>
+    <td>PUG / SCSS / GULP</td>
   </tr>
   <tr>
-    <td colspan="2">Апесанее</td>
+    <td colspan="2">Верстка магазина джинсовой одежды</td>
   </tr>
   
-</table>  -->
+</table> 
