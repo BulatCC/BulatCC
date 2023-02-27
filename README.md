@@ -13,56 +13,56 @@
 ## 🛠 Hard skills:
 
 <div>
-<picture>
-    <img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/js.svg" />
-</picture>
-    &nbsp;
     <picture>
-    <img alt="React" width="40px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/icon-react.svg" />
+        <img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/js.svg" />
     </picture>
     &nbsp;
     <picture>
-        <img alt="Redux" width="40px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/redux.svg" />
+        <img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/icon-react.svg" />
     </picture>
     &nbsp;
     <picture>
-        <img alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/ts.png" />
+        <img title="Redux" alt="Redux" width="40px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/redux.svg" />
     </picture>
     &nbsp;
     <picture>
-        <img alt="Css" width="40px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/css.png" />
+        <img title="TypeScript" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/ts.png" />
     </picture>
     &nbsp;
     <picture>
-        <img alt="Sass" width="40px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/sass.svg" />
+        <img title="Css" alt="Css" width="40px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/css.png" />
     </picture>
     &nbsp;
     <picture>
-        <img alt="Html" width="40px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/html.svg" />
+        <img title="Sass" alt="Sass" width="40px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/sass.svg" />
     </picture>
     &nbsp;
     <picture>
-        <img alt="Pug" width="40px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/pug.svg" />
+        <img title="Html" alt="Html" width="40px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/html.svg" />
     </picture>
     &nbsp;
     <picture>
-        <img alt="Twig" width="40px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/twig.png" />
+        <img title="Pug" alt="Pug" width="40px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/pug.svg" />
     </picture>
     &nbsp;
     <picture>
-        <img alt="Git" width="40px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/git.svg" />
+        <img title="Twig" alt="Twig" width="40px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/twig.png" />
     </picture>
     &nbsp;
     <picture>
-        <img alt="Figma" width="40px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/figma.png" />
+        <img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/git.svg" />
     </picture>
     &nbsp;
     <picture>
-        <img alt="Jest" width="40px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/jest.png" />
+        <img title="Figma" alt="Figma" width="40px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/figma.png" />
     </picture>
     &nbsp;
     <picture>
-        <img alt="Gulp" width="40px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/gulp.svg" />
+        <img title="Jest" alt="Jest" width="40px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/jest.png" />
+    </picture>
+    &nbsp;
+    <picture>
+        <img title="Gulp" alt="Gulp" width="40px" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/icon/gulp.svg" />
     </picture>
 </div>
   
