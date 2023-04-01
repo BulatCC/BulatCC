@@ -122,7 +122,7 @@
   <!-- Denim -->
   <tr>
     <td rowspan="2" width="200">
-      <a href="https://bulatcc.github.io/" target="_blank">
+      <a href="https://bulatcc.github.io/denim/" target="_blank">
         <img width="100%" height="auto" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/denim.jpg" title="Denim" alt="Denim">
       </a>
     </td>
