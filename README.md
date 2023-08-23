@@ -88,7 +88,7 @@
       </a>
     </td>
     <td width="180" height="60">
-      <a href="[https://github.com/BulatCC/what-to-watch](https://github.com/BulatCC/shop-fullstack)" target="_blank">Denim</a>
+      <a href="https://github.com/BulatCC/what-to-watch](https://github.com/BulatCC/shop-fullstack" target="_blank">Denim</a>
 	</td>
     <td>TypeScript / React / React router / Readux toolkit / JWT-autentification / CSS modules / Express / MongoDb</td>
   </tr>
