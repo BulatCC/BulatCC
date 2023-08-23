@@ -83,7 +83,7 @@
   <!-- Denim -->
   <tr>
     <td rowspan="2" width="200">
-      <a href="https://what-to-watch-aoa6.vercel.app/" target="_blank">
+      <a href="https://shop-fullstack-ten.vercel.app/" target="_blank">
         <img width="100%" height="auto" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/denim.jpg" title="Denim" alt="Denim">
       </a>
     </td>
