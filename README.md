@@ -80,6 +80,21 @@
     <th colspan="3" height="70" align="left">JS-development</th>
   </tr>
 
+  <!-- Denim -->
+  <tr>
+    <td rowspan="2" width="200">
+      <a href="https://what-to-watch-aoa6.vercel.app/" target="_blank">
+        <img width="100%" height="auto" src="https://raw.githubusercontent.com/BulatCC/BulatCC/main/img/denim.jpg" title="Denim" alt="Denim">
+      </a>
+    </td>
+    <td width="180" height="60">
+      <a href="[https://github.com/BulatCC/what-to-watch](https://github.com/BulatCC/shop-fullstack)" target="_blank">Denim</a>
+	</td>
+    <td>TypeScript / React / React router / Readux toolkit / JWT-autentification / CSS modules / Express / MongoDb</td>
+  </tr>
+  <tr>
+    <td colspan="2">Интернет магазин одежды (Backend not integrated on host. Locally works.)</td>
+  </tr>
   <!-- What To Watch -->
   <tr>
     <td rowspan="2" width="200">
@@ -111,10 +126,7 @@
   <tr>
     <td colspan="2">Сервис для поиска жилья. Авторизованный пользователь может добавить предложение в избранное, оценить его и оставить отзыв.</td>
   </tr>
-  
 
-  
-  
   <tr>
     <th colspan="3" height="70" align="left"  ">Markup</th>
   </tr>
